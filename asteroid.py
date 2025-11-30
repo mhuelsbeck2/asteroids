@@ -1,4 +1,4 @@
-import pygame
+import pygame # type: ignore
 import random
 from constants import LINE_WIDTH, ASTEROID_MIN_RADIUS
 from circleshape import CircleShape
